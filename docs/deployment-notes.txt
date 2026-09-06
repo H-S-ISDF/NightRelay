@@ -1,0 +1,13 @@
+NightRelay deployment notes
+
+Development node:
+NR-07
+
+Contact:
+arcticbyte
+
+Deployment date:
+2023-11-14
+
+Temporary note:
+remove this file before public release.
