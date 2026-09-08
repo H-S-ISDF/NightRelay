@@ -1,0 +1,18 @@
+THE FORGOTTEN DEVELOPER
+
+The developer behind an abandoned relay project
+left almost no trace.
+
+We recovered one username:
+
+    0xnightrelay
+
+The project was called:
+
+    NightRelay
+
+Find the final message.
+
+Flag format:
+
+    H&SCTF{...}
