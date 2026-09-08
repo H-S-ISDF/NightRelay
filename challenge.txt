@@ -3,13 +3,12 @@ THE FORGOTTEN DEVELOPER
 The developer behind an abandoned relay project
 left almost no trace.
 
-We recovered one username:
-
-    0xnightrelay
-
 The project was called:
 
     NightRelay
+
+It was once maintained by someone who no longer
+appears to be active.
 
 Find the final message.
 
